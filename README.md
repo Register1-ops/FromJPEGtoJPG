@@ -6,12 +6,12 @@ How to Run
 
 1. Clone the Repository
 
-    <pre>'''git clone https://github.com/Register1-ops/FromJPEGtoJPG.git
-    cd FromJPEGtoJPG'''</pre>
+    <pre>git clone https://github.com/Register1-ops/FromJPEGtoJPG.git
+    cd FromJPEGtoJPG</pre>
 
 2. Run the Script
 
-    <pre>'''python convert.py'''</pre>
+    <pre>python convert.py</pre>
 
 All .jpeg files in the current directory will be duplicated with a .jpg extension.
 
