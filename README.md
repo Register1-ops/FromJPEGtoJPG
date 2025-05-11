@@ -11,7 +11,7 @@ How to Run
 
 2. Run the Script
 
-    <pre>python convert.py</pre>
+    <pre>python FromJPEGtoJPG.pt</pre>
 
 All .jpeg files in the current directory will be duplicated with a .jpg extension.
 
